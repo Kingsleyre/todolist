@@ -1,0 +1,27 @@
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: beige;
+  background-image: url(todo-image.jpg);
+}
+
+
+
+h2{
+  text-decoration: underline;
+}
+ li {
+  margin: 10px 0; 
+} 
+
+hr{
+  border: 1px solid black;
+}
+
+p {
+  text-align: center;
+  font-size: large;
+}
